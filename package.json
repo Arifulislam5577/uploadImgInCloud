@@ -1,0 +1,26 @@
+{
+  "name": "uploadimgtocloud",
+  "version": "1.1.0",
+  "description": "upload image in cloudinary",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arifulislam5577/uploadImgInCloud.git"
+  },
+  "keywords": [
+    "uploadImgInCloud"
+  ],
+  "author": "Md Ariful Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arifulislam5577/uploadImgInCloud/issues"
+  },
+  "homepage": "https://github.com/Arifulislam5577/uploadImgInCloud#readme",
+  "dependencies": {
+    "cloudinary": "^1.32.0"
+  }
+}
